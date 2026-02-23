@@ -8,7 +8,9 @@
 
 # Design-Patterns in DotNet
 
+## OOPs Principles
 
+ - [Encapsulation](./OopsPrinciples/Encapsulation/)
 
 
 # System Design
